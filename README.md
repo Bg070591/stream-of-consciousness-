@@ -1,2 +1,2 @@
 # stream-of-consciousness-
-Outer thoughts and inner feelings
+Outer thoughts&inner feelings
